@@ -13,14 +13,14 @@
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="143dp"
+        android:layout_width="217dp"
         android:layout_height="wrap_content"
         android:text="Multiply" >
 </Button>
 
     <Button
         android:id="@+id/button1"
-        android:layout_width="144dp"
+        android:layout_width="216dp"
         android:layout_height="wrap_content"
         android:text="Addition" />
 
